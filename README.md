@@ -1,2 +1,0 @@
-# FianClean
-Clean &amp; Fast 
